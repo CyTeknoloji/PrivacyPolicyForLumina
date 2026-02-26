@@ -42,6 +42,10 @@ Lumina does not knowingly collect personal information from children under the a
 7. Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-8. Contact Us
+8. Data Deletion Request: To delete your account and all associated data, please send an email to cy.teknoloji@gmail.com with the subject "Account Deletion". Your request will be processed within 48 hours, and all your records (rituals, focus areas, and authentication data) will be permanently erased from our Firebase servers.
+
+9. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 Email: cy.teknoloji@gmail.com
+
+
