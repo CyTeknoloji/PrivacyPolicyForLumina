@@ -34,7 +34,7 @@ Google Firebase: For authentication, database management (Firestore), and crash 
 Room Database: Local storage on your device for offline access to affirmations.
 
 5. Your Rights and Data Deletion
-You have the right to access, update, or delete your personal information. If you wish to delete your account and all associated daily records, you can do so through the app settings or by contacting us at [Your Contact Email Here].
+You have the right to access, update, or delete your personal information. If you wish to delete your account and all associated daily records, you can do so through the app settings or by contacting us at cy.teknoloji@gmail.com
 
 6. Children's Privacy
 Lumina does not knowingly collect personal information from children under the age of 13. If we discover that a child under 13 has provided us with personal information, we will delete it immediately.
@@ -44,4 +44,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-Email: [Your Contact Email Here]
+Email: cy.teknoloji@gmail.com
